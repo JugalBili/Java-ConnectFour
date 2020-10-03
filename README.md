@@ -16,9 +16,9 @@
 ## Description
 Connect Four consists of a 7x6 game board and a button for each column where you can press the respective button for a column to drop your coin in. The blank space will then change to a yellow coin (users coin) and then a red coin will also be placed randomly by the computer. 
 
-![pic1](screenshots\Main.png)
-![pic2](screenshots\game.png)
-![pic3](screenshots\scoreboard.png)
+![pic1](screenshots/Main.png)
+![pic2](screenshots/game.png)
+![pic3](screenshots/scoreboard.png)
 
 <br />
 
