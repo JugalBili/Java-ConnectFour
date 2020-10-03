@@ -1,0 +1,15 @@
+
+*.class
+
+# Unnecessary Folders #
+build/
+nbproject/
+dist/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Whitelist #
+!libraries/*
